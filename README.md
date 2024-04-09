@@ -1,16 +1,13 @@
-# animated_login
+# iShow App
 
-Projeto Tela de Login Animada.
+The following project was made in a Flutter course i made, and the main goals of this app were:
 
-## Getting Started
+* Learn how to work with animations in Flutter;
 
-This project is a starting point for a Flutter application.
+Also, one of the app's goals was to pratice layout creation and customization.
+## How the App Works
 
-A few resources to get you started if this is your first Flutter project:
+When the app is inicialized, a group of animations will be triggered, and when they finish their execution, the app opens a animated login page.
+## Author
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [@Salum28](https://github.com/Salum28)
